@@ -1,6 +1,7 @@
-# 🧠 Mi Juego de Preguntas – Node.js
+# 🎮 Real-time Multiplayer Game (Node.js + Socket.IO)
 
-Juego de preguntas y respuestas tipo tablero desarrollado con **Node.js, HTML, CSS y JavaScript**. El sistema permite jugar en multijugador local en el mismo dispositivo y cuenta con una versión con lógica de servidor para manejo de partidas.
+Juego de preguntas y respuestas tipo tablero con soporte multijugador en tiempo real. 
+Desarrollado con Node.js, JavaScript y WebSockets, permite la sincronización de jugadores, turnos y eventos del juego entre clientes conectados.
 
 ---
 
