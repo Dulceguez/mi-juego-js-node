@@ -5,7 +5,7 @@ Desarrollado con Node.js, JavaScript y WebSockets, permite la sincronización de
 
 ---
 
-## 🚀 Características
+## Características
 
 - Juego de tablero por turnos
 - Sistema de dado para movimiento de jugadores
@@ -16,7 +16,7 @@ Desarrollado con Node.js, JavaScript y WebSockets, permite la sincronización de
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Node.js
 - JavaScript
@@ -26,7 +26,7 @@ Desarrollado con Node.js, JavaScript y WebSockets, permite la sincronización de
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 ```plaintext
 /
